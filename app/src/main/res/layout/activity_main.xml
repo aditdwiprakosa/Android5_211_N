@@ -66,9 +66,9 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
-        android:hint="@string/isi_angka"
+        android:hint="isi Angka"
         android:minHeight="48dp"
-        android:autofillHints=""
+        android:autofillHints="creditCardNumber"
         android:layout_marginBottom="8dp"
         android:inputType="number" />
 
